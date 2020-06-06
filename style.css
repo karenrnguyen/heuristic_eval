@@ -14,3 +14,8 @@ body {
     padding-left: 500px;
     padding-bottom: 50px;
 }
+
+#short {
+    width: 500px;
+    padding-left: 300px;
+}
