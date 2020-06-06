@@ -2,3 +2,7 @@ body {
     padding: 45px;
     font-family: Helvetica;
 }
+
+#photo {
+    width: 100px;
+}
